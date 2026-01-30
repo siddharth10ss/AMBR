@@ -1,4 +1,3 @@
-<img width="1280" height="896" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/ae1859f3-aacb-4de4-9b26-f12a1fe8eea1" />
 # Project Name: AMBR - Find Your Vibe Space
 
 ## Inspiration
@@ -46,6 +45,9 @@ We pushed the boundaries of modern web technologies to create a "app-like" cinem
 *   **Multiplayer Avatars**: Moving beyond simple counters to seeing your friends' actual floating cursors/orbs in the space.
 *   **VR Support**: Porting the React Three Fiber scene to WebXR for a fully immersive VR experience.
 *   **AI Soundscapes 2.0**: Moving from our current "Smart Mix" engine to full real-time generative music using WebAssembly synthesizers for infinite, never-repeating lo-fi tracks.
+
+<img width="900" height="500" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/ae1859f3-aacb-4de4-9b26-f12a1fe8eea1" />
+
 
 ---
 
