@@ -1,3 +1,4 @@
+<img width="1280" height="896" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/ae1859f3-aacb-4de4-9b26-f12a1fe8eea1" />
 # Project Name: AMBR - Find Your Vibe Space
 
 ## Inspiration
